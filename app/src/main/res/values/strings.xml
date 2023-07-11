@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Mobile1TestApp</string>
+    <string name="image_description">image</string>
+    <string name="error_text">오류가 발생했습니다.</string>
+    <string name="error_retry">다시 시도하기</string>
 </resources>
